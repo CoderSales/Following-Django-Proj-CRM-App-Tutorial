@@ -2,7 +2,6 @@
 
 Following a Django Tutorial to Build a CRM App Tutorial
 
-
 ## Steps
 
 - conda deactivate base
@@ -10,7 +9,6 @@ Following a Django Tutorial to Build a CRM App Tutorial
 - [activate virtual environment](https://youtu.be/t10QcFx7d5k?t=211)
 - [pip install django](https://youtu.be/t10QcFx7d5k?t=223)
 - python.exe -m pip install --upgrade pip
-
 
 ## References
 
