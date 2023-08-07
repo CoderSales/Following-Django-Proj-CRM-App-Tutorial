@@ -40,7 +40,7 @@ Following a Django Tutorial to Build a CRM App Tutorial
 
 - [head back over to terminal](https://youtu.be/t10QcFx7d5k?t=343)
 
-- []()
+- [django-admin startproject dcrm](https://youtu.be/t10QcFx7d5k?t=352)
 
 ## References
 
