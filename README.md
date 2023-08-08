@@ -64,6 +64,8 @@ ____________________
 
 - [Django login users](https://youtu.be/t10QcFx7d5k?t=1728)
 
+- [views.py import authenticate log in out and messages](https://youtu.be/t10QcFx7d5k?t=1790)
+
 ## References
 
 - [Tutorial](https://youtu.be/t10QcFx7d5k?t=139)
