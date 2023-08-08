@@ -46,6 +46,8 @@ Following a Django Tutorial to Build a CRM App Tutorial
 
 - [See code pushed to GitHub remote repository](https://youtu.be/t10QcFx7d5k?t=997)
 
+- [First webpage working](https://youtu.be/t10QcFx7d5k?t=1289)
+
 ## References
 
 - [Tutorial](https://youtu.be/t10QcFx7d5k?t=139)
