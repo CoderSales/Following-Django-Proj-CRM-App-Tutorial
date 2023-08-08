@@ -42,6 +42,10 @@ Following a Django Tutorial to Build a CRM App Tutorial
 
 - [django-admin startproject dcrm](https://youtu.be/t10QcFx7d5k?t=352)
 
+- [setup git](https://youtu.be/t10QcFx7d5k?t=818)
+
+- [See code pushed to GitHub remote repository](https://youtu.be/t10QcFx7d5k?t=997)
+
 ## References
 
 - [Tutorial](https://youtu.be/t10QcFx7d5k?t=139)
