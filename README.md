@@ -74,6 +74,8 @@ ____________________
 
 - [Cut log me out tick box](https://youtu.be/t10QcFx7d5k?t=2174)
 
+- [Username and Password formatted](https://youtu.be/t10QcFx7d5k?t=2251)
+
 ## References
 
 - [Tutorial](https://youtu.be/t10QcFx7d5k?t=139)
