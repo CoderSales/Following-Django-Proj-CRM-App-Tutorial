@@ -76,6 +76,12 @@ ____________________
 
 - [Username and Password formatted](https://youtu.be/t10QcFx7d5k?t=2251)
 
+## Bugs
+
+Issue: Login button goes to a 403 page with CSRF missing
+Cause: form element missing closing triangular bracket in templates/home.html
+Fix: add closing triangular bracket to form element
+
 ## References
 
 - [Tutorial](https://youtu.be/t10QcFx7d5k?t=139)
