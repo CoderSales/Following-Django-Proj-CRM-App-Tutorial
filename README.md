@@ -76,6 +76,8 @@ ____________________
 
 - [Username and Password formatted](https://youtu.be/t10QcFx7d5k?t=2251)
 
+- [Login button clicking should do nothing (Fixed earlier error, see README/Bugs/Issue:Login...)](https://youtu.be/t10QcFx7d5k?t=2261)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
