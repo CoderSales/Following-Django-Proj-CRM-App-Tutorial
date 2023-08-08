@@ -66,6 +66,8 @@ ____________________
 
 - [views.py import authenticate log in out and messages](https://youtu.be/t10QcFx7d5k?t=1790)
 
+- [how request works](https://youtu.be/t10QcFx7d5k?t=1847)
+
 ## References
 
 - [Tutorial](https://youtu.be/t10QcFx7d5k?t=139)
