@@ -48,6 +48,16 @@ Following a Django Tutorial to Build a CRM App Tutorial
 
 - [First webpage working](https://youtu.be/t10QcFx7d5k?t=1289)
 
+- [In base.html is the code that will go on every page](https://youtu.be/t10QcFx7d5k?t=1306)
+
+- [Bootstrap](https://youtu.be/t10QcFx7d5k?t=1309)
+
+- [getbootstrap.com](https://youtu.be/t10QcFx7d5k?t=1314)
+
+- [Docs](https://youtu.be/t10QcFx7d5k?t=1319)
+
+- [change light to dark navbar](https://youtu.be/t10QcFx7d5k?t=1547)
+
 ## References
 
 - [Tutorial](https://youtu.be/t10QcFx7d5k?t=139)
