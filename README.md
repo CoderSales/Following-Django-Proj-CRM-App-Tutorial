@@ -58,6 +58,8 @@ Following a Django Tutorial to Build a CRM App Tutorial
 
 - [change light to dark navbar](https://youtu.be/t10QcFx7d5k?t=1547)
 
+- [navbar has been tidied up](https://youtu.be/t10QcFx7d5k?t=1688)
+
 ## References
 
 - [Tutorial](https://youtu.be/t10QcFx7d5k?t=139)
