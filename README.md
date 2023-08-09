@@ -82,6 +82,8 @@ ____________________
 
 - [There was an error login Bootstrap message with x working](https://youtu.be/t10QcFx7d5k?t=2836)
 
+- [Login and Logout working](https://youtu.be/t10QcFx7d5k?t=3037)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
