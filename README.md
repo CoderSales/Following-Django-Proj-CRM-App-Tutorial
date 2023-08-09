@@ -80,6 +80,8 @@ ____________________
 
 - [Username and Password need to be requireed](https://youtu.be/t10QcFx7d5k?t=2266)
 
+- [There was an error login Bootstrap message with x working](https://youtu.be/t10QcFx7d5k?t=2836)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
