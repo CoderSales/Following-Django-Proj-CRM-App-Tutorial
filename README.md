@@ -99,6 +99,8 @@ ____________________
 
 - [end setting up site | start crm](https://youtu.be/t10QcFx7d5k?t=4483)
 
+- [Django DataBase Model](https://youtu.be/t10QcFx7d5k?t=4503)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
