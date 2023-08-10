@@ -101,6 +101,14 @@ ____________________
 
 - [Django DataBase Model](https://youtu.be/t10QcFx7d5k?t=4503)
 
+- [Python/Django creates a class that abstracts away and creates code for us on the backend.](https://youtu.be/t10QcFx7d5k?t=4530)
+
+  - [It will create the MySQL code if you're using MySQL](https://youtu.be/t10QcFx7d5k?t=4537)
+
+  - [It will create the PostgreSQL code](https://youtu.be/t10QcFx7d5k?t=4540)
+
+  - [Whatever DataBase you're using, it will do it for you behind the scenes.](https://youtu.be/t10QcFx7d5k?t=4542)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
