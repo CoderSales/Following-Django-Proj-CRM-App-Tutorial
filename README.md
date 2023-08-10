@@ -111,6 +111,8 @@ ____________________
 
 - [define class](https://youtu.be/t10QcFx7d5k?t=4548)
 
+- [In models.py Add class Record and Define subelements](https://youtu.be/t10QcFx7d5k?t=4758)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
