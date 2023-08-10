@@ -84,6 +84,8 @@ ____________________
 
 - [Login and Logout working](https://youtu.be/t10QcFx7d5k?t=3037)
 
+- [Register Users](https://youtu.be/t10QcFx7d5k?t=3106)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
