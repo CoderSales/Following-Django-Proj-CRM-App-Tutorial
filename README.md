@@ -88,6 +88,13 @@ ____________________
 
 - [Register Page exists](https://youtu.be/t10QcFx7d5k?t=3282)
 
+- [Registration updated, tutorial commit](https://youtu.be/t10QcFx7d5k?t=3868)
+
+  GitHub for Tutorial:
+  - [tutorial 'registration' commit](https://github.com/flatplanet/Django-CRM/commit/b7b5d76f88963010ac93e897a67416a5243c74f0)
+
+  - [relevant code: form.py](https://github.com/flatplanet/Django-CRM/blob/main/website/forms.py)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
