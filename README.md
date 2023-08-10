@@ -117,6 +117,8 @@ ____________________
 
 - [Records model added to admin.py](https://youtu.be/t10QcFx7d5k?t=5061)
 
+- [Start of 'Django View Records on Website' timestamp on tutorial](https://youtu.be/t10QcFx7d5k?t=5150)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
