@@ -109,6 +109,8 @@ ____________________
 
   - [Whatever DataBase you're using, it will do it for you behind the scenes.](https://youtu.be/t10QcFx7d5k?t=4542)
 
+- [define class](https://youtu.be/t10QcFx7d5k?t=4548)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
