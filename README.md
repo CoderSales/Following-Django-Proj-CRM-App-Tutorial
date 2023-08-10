@@ -95,6 +95,8 @@ ____________________
 
   - [relevant code: form.py](https://github.com/flatplanet/Django-CRM/blob/main/website/forms.py)
 
+  - [Add registration detail - Done](https://youtu.be/t10QcFx7d5k?t=4433)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
