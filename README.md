@@ -121,7 +121,7 @@ ____________________
 
 - [Return record at front end | View but still not formatted correctly](https://youtu.be/t10QcFx7d5k?t=5462)
 
-- [Start of Django Bootstrap Table for formatting | Same timestamp twice for different topics](https://youtu.be/t10QcFx7d5k?t=5462)
+- [Start of Django Bootstrap Table for formatting | Same timestamp twice for different topics | (Purpose of 2 timestamps is to delineate different topics)](https://youtu.be/t10QcFx7d5k?t=5462)
 
 ## Bugs
 
