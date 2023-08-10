@@ -86,6 +86,8 @@ ____________________
 
 - [Register Users](https://youtu.be/t10QcFx7d5k?t=3106)
 
+- [Register Page exists](https://youtu.be/t10QcFx7d5k?t=3282)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
