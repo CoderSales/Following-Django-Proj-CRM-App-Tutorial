@@ -113,6 +113,10 @@ ____________________
 
 - [In models.py Add class Record and Define subelements](https://youtu.be/t10QcFx7d5k?t=4758)
 
+- [Record model migration applied](https://youtu.be/t10QcFx7d5k?t=4991)
+
+- [Records model added to admin.py](https://youtu.be/t10QcFx7d5k?t=5061)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
