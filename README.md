@@ -95,7 +95,9 @@ ____________________
 
   - [relevant code: form.py](https://github.com/flatplanet/Django-CRM/blob/main/website/forms.py)
 
-  - [Add registration detail - Done](https://youtu.be/t10QcFx7d5k?t=4433)
+- [Add registration detail - Done](https://youtu.be/t10QcFx7d5k?t=4433)
+
+- [end setting up site | start crm](https://youtu.be/t10QcFx7d5k?t=4483)
 
 ## Bugs
 
