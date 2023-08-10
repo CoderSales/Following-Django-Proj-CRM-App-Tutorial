@@ -119,6 +119,10 @@ ____________________
 
 - [Start of 'Django View Records on Website' timestamp on tutorial](https://youtu.be/t10QcFx7d5k?t=5150)
 
+- [Return record at front end | View but still not formatted correctly](https://youtu.be/t10QcFx7d5k?t=5462)
+
+- [Start of Django Bootstrap Table for formatting | Same timestamp twice for different topics](https://youtu.be/t10QcFx7d5k?t=5462)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
