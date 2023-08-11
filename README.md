@@ -123,6 +123,10 @@ ____________________
 
 - [Start of Django Bootstrap Table for formatting | Same timestamp twice for different topics | (Purpose of 2 timestamps is to delineate different topics)](https://youtu.be/t10QcFx7d5k?t=5462)
 
+- [Table added to site](https://youtu.be/t10QcFx7d5k?t=5726)
+
+- [Prepare for adding extra formatting from Bootstrap Table Docs](https://youtu.be/t10QcFx7d5k?t=5726)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
