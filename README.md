@@ -129,6 +129,8 @@ ____________________
 
 - [table-hover class added to table in home.html](https://youtu.be/t10QcFx7d5k?t=5770)
 
+- 1:36:41 [Border added to table](https://youtu.be/t10QcFx7d5k?t=5801)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
