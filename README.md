@@ -131,6 +131,8 @@ ____________________
 
 - 1:36:41 [Border added to table](https://youtu.be/t10QcFx7d5k?t=5801)
 
+- 1:36:57 [table-sm | table small class](https://youtu.be/t10QcFx7d5k?t=5817)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
