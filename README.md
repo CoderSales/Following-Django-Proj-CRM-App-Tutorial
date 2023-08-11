@@ -133,6 +133,8 @@ ____________________
 
 - 1:36:57 [table-sm | table small class](https://youtu.be/t10QcFx7d5k?t=5817)
 
+- 1:37:14 [Cut table-sm | table small class](https://youtu.be/t10QcFx7d5k?t=5834)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
