@@ -136,7 +136,9 @@ ____________________
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
+
 Cause: form element missing closing triangular bracket in templates/home.html
+
 Fix: add closing triangular bracket to form element
 
 ## References
