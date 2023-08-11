@@ -127,6 +127,8 @@ ____________________
 
 - [Prepare for adding extra formatting from Bootstrap Table Docs](https://youtu.be/t10QcFx7d5k?t=5726)
 
+- [table-hover class added to table in home.html](https://youtu.be/t10QcFx7d5k?t=5770)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
