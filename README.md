@@ -143,6 +143,8 @@ ____________________
 
 - 1:43:57 [Added customer records page accessible only when logged in | Access page by primary key by passing (`/<int:pk>`) | setup url in urls.py, view in views.py and record.html in templates folder](https://youtu.be/t10QcFx7d5k?t=6237)
 
+- 1:45:10 [Hovering over record ID links on page causes bottom left corner of site to display (hosted site home page)/record/(id#)](https://youtu.be/t10QcFx7d5k?t=6310)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
