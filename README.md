@@ -141,7 +141,7 @@ ____________________
 
 - 1:38:25 [Next Step: Django Individual Records](https://youtu.be/t10QcFx7d5k?t=5905)
 
-- 1:43:57 [Added customer records page accessible only when logged in | Access page by primary key by passing (`/<int:pk>`) | setup url in urls.py, view in views.py andrecordd.html in templates folder](https://youtu.be/t10QcFx7d5k?t=6237)
+- 1:43:57 [Added customer records page accessible only when logged in | Access page by primary key by passing (`/<int:pk>`) | setup url in urls.py, view in views.py and record.html in templates folder](https://youtu.be/t10QcFx7d5k?t=6237)
 
 ## Bugs
 
