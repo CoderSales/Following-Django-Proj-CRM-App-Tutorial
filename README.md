@@ -135,6 +135,8 @@ ____________________
 
 - 1:37:14 [Cut table-sm | table small class](https://youtu.be/t10QcFx7d5k?t=5834)
 
+- 1:37:34 [Add table-dark class | Purpose: To make table header row dark](https://youtu.be/t10QcFx7d5k?t=5854)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
