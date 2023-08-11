@@ -139,6 +139,8 @@ ____________________
 
 - 1:37:55 [Identify TODO items and Plan next steps](https://youtu.be/t10QcFx7d5k?t=5875)
 
+- 1:38:25 [Next Step: Django Individual Records](https://youtu.be/t10QcFx7d5k?t=5905)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
