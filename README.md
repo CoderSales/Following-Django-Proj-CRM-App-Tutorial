@@ -137,6 +137,8 @@ ____________________
 
 - 1:37:34 [Add table-dark class (to `<thead>` element) | Purpose: To make table header row dark](https://youtu.be/t10QcFx7d5k?t=5854)
 
+- 1:37:55 [Identify TODO items and Plan next steps](https://youtu.be/t10QcFx7d5k?t=5875)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
