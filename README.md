@@ -5,129 +5,129 @@ Following a Django Tutorial to Build a CRM App Tutorial
 ## Steps
 
 - conda deactivate base
-- [install virtual environment](https://youtu.be/t10QcFx7d5k?t=197)
-- [activate virtual environment](https://youtu.be/t10QcFx7d5k?t=211)
-- [pip install django](https://youtu.be/t10QcFx7d5k?t=223)
+- 3:17 [install virtual environment](https://youtu.be/t10QcFx7d5k?t=197)
+- 3:31 [activate virtual environment](https://youtu.be/t10QcFx7d5k?t=211)
+- 3:43 [pip install django](https://youtu.be/t10QcFx7d5k?t=223)
 - python.exe -m pip install --upgrade pip
-- [pip install mysql](https://youtu.be/t10QcFx7d5k?t=230)
-- [Download mysql](https://youtu.be/t10QcFx7d5k?t=234)
-- [connector from Django to mysql app](https://youtu.be/t10QcFx7d5k?t=241)
+- 3:50 [pip install mysql](https://youtu.be/t10QcFx7d5k?t=230)
+- 3:54 [Download mysql](https://youtu.be/t10QcFx7d5k?t=234)
+- 4:01 [connector from Django to mysql app](https://youtu.be/t10QcFx7d5k?t=241)
 
-  - [There are 2 connectors](https://youtu.be/t10QcFx7d5k?t=245)
+  - 4:05 [There are 2 connectors](https://youtu.be/t10QcFx7d5k?t=245)
 
-    - [pip install mysql-connector](https://youtu.be/t10QcFx7d5k?t=246)
-    - [pip install mysql-connector-python](https://youtu.be/t10QcFx7d5k?t=253)
+    - 4:06 [pip install mysql-connector](https://youtu.be/t10QcFx7d5k?t=246)
+    - 4:13 [pip install mysql-connector-python](https://youtu.be/t10QcFx7d5k?t=253)
 
-- [download and install mysql](https://youtu.be/t10QcFx7d5k?t=274)
+- 4:34 [download and install mysql](https://youtu.be/t10QcFx7d5k?t=274)
 - [dev.mysql.com](https://dev.mysql.com/)
 
   - [dev.mysql.com/downloads/installer/](https://dev.mysql.com/downloads/installer/)
   - MySQL Installer 8.0.34
 
-- [Community installer](https://youtu.be/t10QcFx7d5k?t=288)
-- [link 2 of 2 with the ~300M file size](https://youtu.be/t10QcFx7d5k?t=290)
-- [click download](https://youtu.be/t10QcFx7d5k?t=293)
+- 4:48 [Community installer](https://youtu.be/t10QcFx7d5k?t=288)
+- 4:50 [link 2 of 2 with the ~300M file size](https://youtu.be/t10QcFx7d5k?t=290)
+- 4:53 [click download](https://youtu.be/t10QcFx7d5k?t=293)
 
 ## Installation Note
 
-- [Important: setup Username and Password](https://youtu.be/t10QcFx7d5k?t=304)
+- 5:04 [Important: setup Username and Password](https://youtu.be/t10QcFx7d5k?t=304)
 
 ## Turn on MySQL Server
 
-- [Turn on MySQL Server](https://youtu.be/t10QcFx7d5k?t=330)
+- 5:30 [Turn on MySQL Server](https://youtu.be/t10QcFx7d5k?t=330)
 
-  - [MySQL needs to be running in the background](https://youtu.be/t10QcFx7d5k?t=337)
+  - 5:37 [MySQL needs to be running in the background](https://youtu.be/t10QcFx7d5k?t=337)
 
-- [head back over to terminal](https://youtu.be/t10QcFx7d5k?t=343)
+- 5:43 [head back over to terminal](https://youtu.be/t10QcFx7d5k?t=343)
 
-- [django-admin startproject dcrm](https://youtu.be/t10QcFx7d5k?t=352)
+- 5:52 [django-admin startproject dcrm](https://youtu.be/t10QcFx7d5k?t=352)
 
-- [setup git](https://youtu.be/t10QcFx7d5k?t=818)
+- 13:38 [setup git](https://youtu.be/t10QcFx7d5k?t=818)
 
-- [See code pushed to GitHub remote repository](https://youtu.be/t10QcFx7d5k?t=997)
+- 16:37 [See code pushed to GitHub remote repository](https://youtu.be/t10QcFx7d5k?t=997)
 
-- [First webpage working](https://youtu.be/t10QcFx7d5k?t=1289)
+- 21:29 [First webpage working](https://youtu.be/t10QcFx7d5k?t=1289)
 
-- [In base.html is the code that will go on every page](https://youtu.be/t10QcFx7d5k?t=1306)
+- 21:46 [In base.html is the code that will go on every page](https://youtu.be/t10QcFx7d5k?t=1306)
 
-- [Bootstrap](https://youtu.be/t10QcFx7d5k?t=1309)
+- 21:49 [Bootstrap](https://youtu.be/t10QcFx7d5k?t=1309)
 
-- [getbootstrap.com](https://youtu.be/t10QcFx7d5k?t=1314)
+- 21:54 [getbootstrap.com](https://youtu.be/t10QcFx7d5k?t=1314)
 
-- [Docs](https://youtu.be/t10QcFx7d5k?t=1319)
+- 21:59 [Docs](https://youtu.be/t10QcFx7d5k?t=1319)
 
-- [change light to dark navbar](https://youtu.be/t10QcFx7d5k?t=1547)
+- 25:47 [change light to dark navbar](https://youtu.be/t10QcFx7d5k?t=1547)
 
-- [navbar has been tidied up](https://youtu.be/t10QcFx7d5k?t=1688)
+- 28:08 [navbar has been tidied up](https://youtu.be/t10QcFx7d5k?t=1688)
 
 ____________________
 
-- [Django login users](https://youtu.be/t10QcFx7d5k?t=1728)
+- 28:48 [Django login users](https://youtu.be/t10QcFx7d5k?t=1728)
 
-- [views.py import authenticate log in out and messages](https://youtu.be/t10QcFx7d5k?t=1790)
+- 29:50 [views.py import authenticate log in out and messages](https://youtu.be/t10QcFx7d5k?t=1790)
 
-- [how request works](https://youtu.be/t10QcFx7d5k?t=1847)
+- 30:47 [how request works](https://youtu.be/t10QcFx7d5k?t=1847)
 
-- [url](https://youtu.be/t10QcFx7d5k?t=1871)
+- 31:11 [url](https://youtu.be/t10QcFx7d5k?t=1871)
 
-- [Form added with baasic modification](https://youtu.be/t10QcFx7d5k?t=2155)
+- 35:55 [Form added with baasic modification](https://youtu.be/t10QcFx7d5k?t=2155)
 
-- [Cut log me out tick box](https://youtu.be/t10QcFx7d5k?t=2174)
+- 36:14 [Cut log me out tick box](https://youtu.be/t10QcFx7d5k?t=2174)
 
-- [Username and Password formatted](https://youtu.be/t10QcFx7d5k?t=2251)
+- 37:31 [Username and Password formatted](https://youtu.be/t10QcFx7d5k?t=2251)
 
-- [Login button clicking should do nothing (Fixed earlier error, see README/Bugs/Issue:Login...)](https://youtu.be/t10QcFx7d5k?t=2261)
+- 37:41 [Login button clicking should do nothing (Fixed earlier error, see README/Bugs/Issue:Login...)](https://youtu.be/t10QcFx7d5k?t=2261)
 
-- [Username and Password need to be requireed](https://youtu.be/t10QcFx7d5k?t=2266)
+- 37:46 [Username and Password need to be requireed](https://youtu.be/t10QcFx7d5k?t=2266)
 
-- [There was an error login Bootstrap message with x working](https://youtu.be/t10QcFx7d5k?t=2836)
+- 47:16 [There was an error login Bootstrap message with x working](https://youtu.be/t10QcFx7d5k?t=2836)
 
-- [Login and Logout working](https://youtu.be/t10QcFx7d5k?t=3037)
+- 50:37 [Login and Logout working](https://youtu.be/t10QcFx7d5k?t=3037)
 
-- [Register Users](https://youtu.be/t10QcFx7d5k?t=3106)
+- 51:46 [Register Users](https://youtu.be/t10QcFx7d5k?t=3106)
 
-- [Register Page exists](https://youtu.be/t10QcFx7d5k?t=3282)
+- 54:42 [Register Page exists](https://youtu.be/t10QcFx7d5k?t=3282)
 
-- [Registration updated, tutorial commit](https://youtu.be/t10QcFx7d5k?t=3868)
+- 1:04:28 [Registration updated, tutorial commit](https://youtu.be/t10QcFx7d5k?t=3868)
 
   GitHub for Tutorial:
   - [tutorial 'registration' commit](https://github.com/flatplanet/Django-CRM/commit/b7b5d76f88963010ac93e897a67416a5243c74f0)
 
   - [relevant code: form.py](https://github.com/flatplanet/Django-CRM/blob/main/website/forms.py)
 
-- [Add registration detail - Done](https://youtu.be/t10QcFx7d5k?t=4433)
+- 1:13:53 [Add registration detail - Done](https://youtu.be/t10QcFx7d5k?t=4433)
 
-- [end setting up site | start crm](https://youtu.be/t10QcFx7d5k?t=4483)
+- 1:14:43 [end setting up site | start crm](https://youtu.be/t10QcFx7d5k?t=4483)
 
-- [Django DataBase Model](https://youtu.be/t10QcFx7d5k?t=4503)
+- 1:15:03 [Django DataBase Model](https://youtu.be/t10QcFx7d5k?t=4503)
 
-- [Python/Django creates a class that abstracts away and creates code for us on the backend.](https://youtu.be/t10QcFx7d5k?t=4530)
+- 1:15:30 [Python/Django creates a class that abstracts away and creates code for us on the backend.](https://youtu.be/t10QcFx7d5k?t=4530)
 
-  - [It will create the MySQL code if you're using MySQL](https://youtu.be/t10QcFx7d5k?t=4537)
+  - 1:15:37 [It will create the MySQL code if you're using MySQL](https://youtu.be/t10QcFx7d5k?t=4537)
 
-  - [It will create the PostgreSQL code](https://youtu.be/t10QcFx7d5k?t=4540)
+  - 1:15:40 [It will create the PostgreSQL code](https://youtu.be/t10QcFx7d5k?t=4540)
 
-  - [Whatever DataBase you're using, it will do it for you behind the scenes.](https://youtu.be/t10QcFx7d5k?t=4542)
+  - 1:15:42 [Whatever DataBase you're using, it will do it for you behind the scenes.](https://youtu.be/t10QcFx7d5k?t=4542)
 
-- [define class](https://youtu.be/t10QcFx7d5k?t=4548)
+- 1:15:48 [define class](https://youtu.be/t10QcFx7d5k?t=4548)
 
-- [In models.py Add class Record and Define subelements](https://youtu.be/t10QcFx7d5k?t=4758)
+- 1:19:18 [In models.py Add class Record and Define subelements](https://youtu.be/t10QcFx7d5k?t=4758)
 
-- [Record model migration applied](https://youtu.be/t10QcFx7d5k?t=4991)
+- 1:23:11 [Record model migration applied](https://youtu.be/t10QcFx7d5k?t=4991)
 
-- [Records model added to admin.py](https://youtu.be/t10QcFx7d5k?t=5061)
+- 1:24:21 [Records model added to admin.py](https://youtu.be/t10QcFx7d5k?t=5061)
 
-- [Start of 'Django View Records on Website' timestamp on tutorial](https://youtu.be/t10QcFx7d5k?t=5150)
+- 1:25:50 [Start of 'Django View Records on Website' timestamp on tutorial](https://youtu.be/t10QcFx7d5k?t=5150)
 
-- [Return record at front end | View but still not formatted correctly](https://youtu.be/t10QcFx7d5k?t=5462)
+- 1:31:02 [Return record at front end | View but still not formatted correctly](https://youtu.be/t10QcFx7d5k?t=5462)
 
-- [Start of Django Bootstrap Table for formatting | Same timestamp twice for different topics | (Purpose of 2 timestamps is to delineate different topics)](https://youtu.be/t10QcFx7d5k?t=5462)
+- 1:31:02 [Start of Django Bootstrap Table for formatting | Same timestamp twice for different topics | (Purpose of 2 timestamps is to delineate different topics)](https://youtu.be/t10QcFx7d5k?t=5462)
 
-- [Table added to site](https://youtu.be/t10QcFx7d5k?t=5726)
+- 1:35:26 [Table added to site](https://youtu.be/t10QcFx7d5k?t=5726)
 
-- [Prepare for adding extra formatting from Bootstrap Table Docs](https://youtu.be/t10QcFx7d5k?t=5726)
+- 1:35:26 [Prepare for adding extra formatting from Bootstrap Table Docs](https://youtu.be/t10QcFx7d5k?t=5726)
 
-- [table-hover class added to table in home.html](https://youtu.be/t10QcFx7d5k?t=5770)
+- 1:36:10 [table-hover class added to table in home.html](https://youtu.be/t10QcFx7d5k?t=5770)
 
 - 1:36:41 [Border added to table](https://youtu.be/t10QcFx7d5k?t=5801)
 
