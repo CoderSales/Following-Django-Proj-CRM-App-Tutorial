@@ -155,6 +155,8 @@ ____________________
 
 - 2:01:07 [Wired up Delete Record Button on record page | TODO: Add "Add Records" Functionality](https://youtu.be/t10QcFx7d5k?t=7267)
 
+- 2:03:09 [Add "Add Record" button to navbar](https://youtu.be/t10QcFx7d5k?t=7389)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
