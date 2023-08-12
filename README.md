@@ -149,6 +149,8 @@ ____________________
 
 - 1:46:14 [Added customer record to record page](https://youtu.be/t10QcFx7d5k?t=6374)
 
+- 1:48:43 [Added content to records page | TODO: Add Bootstrap Card (formatting)](https://youtu.be/t10QcFx7d5k?t=6523)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
