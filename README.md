@@ -159,6 +159,8 @@ ____________________
 
 - 2:12:12 [Added 'Add Record' Form to 'Add Record' Page | TODO: Update Records](https://youtu.be/t10QcFx7d5k?t=7932)
 
+- 2:20:08 [Add Update Record Page (with Back Button) | Push Code to GitHub](https://youtu.be/t10QcFx7d5k?t=8408)
+
 ## Bugs
 
 Bug Number: 1
