@@ -190,6 +190,7 @@ Context:
 ## References
 
 - [Tutorial](https://youtu.be/t10QcFx7d5k?t=139)
+- [GitHub Repository for Tutorial](https://github.com/flatplanet/Django-CRM)
 - [ChatGPT3.5](https://chat.openai.com/?model=text-davinci-002-render-sha)
 - [VisualStudioCode]
 - [Sublime]
