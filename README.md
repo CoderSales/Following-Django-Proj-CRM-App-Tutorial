@@ -151,6 +151,8 @@ ____________________
 
 - 1:48:43 [Added content to records page | TODO: Add Bootstrap Card (formatting)](https://youtu.be/t10QcFx7d5k?t=6523)
 
+- 1:56:52 [Added Bootstrap Card and Buttons (unconnected) to records page | TODO: Delete Record](https://youtu.be/t10QcFx7d5k?t=7012)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
