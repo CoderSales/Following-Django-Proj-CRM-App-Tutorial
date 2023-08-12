@@ -157,7 +157,11 @@ ____________________
 
 - 2:03:09 [Add "Add Record" button to navbar](https://youtu.be/t10QcFx7d5k?t=7389)
 
+- 2:12:12 [Added 'Add Record' Form to 'Add Record' Page | TODO: Update Records](https://youtu.be/t10QcFx7d5k?t=7932)
+
 ## Bugs
+
+Bug Number: 1
 
 Issue: Login button goes to a 403 page with CSRF missing
 
@@ -165,6 +169,54 @@ Cause: form element missing closing triangular bracket in templates/home.html
 
 Fix: add closing triangular bracket to form element
 
+______________________________________________________________________________________________;
+
+Bug Number: 2
+
+Context:
+
+  File: forms.py
+
+  Line Number: 40
+
+  Line Content: first_name = Forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={"placeholder":"First Name", "class":"form-control"}), label="")
+
+  Issue: First letter capitalization of Forms
+
+  Fix: Change Forms to forms
+
 ## References
 
 - [Tutorial](https://youtu.be/t10QcFx7d5k?t=139)
+- [ChatGPT3.5](https://chat.openai.com/?model=text-davinci-002-render-sha)
+- [VisualStudioCode]
+- [Sublime]
+
+### VSCode Extensions
+
+- [Live Server | Go Live]
+- [Copilot]
+- [Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more]
+- [GitLens]
+- [IntelliCode]
+- [IntelliCode API Usage Examples]
+- [Pylance]
+- [Python]
+- [Python Environment Manager]
+- [Python Extension Pack]
+- [WSL]
+- [Path Intellisense]
+- [Live Preview]
+- [isort]
+
+### Packages
+
+- [Django]
+- [Bootstrap]
+
+### DataBase
+
+- [MySQL]
+- [mysql-connector]
+- [mysql-connector-python]
+- [mysqlclient]
