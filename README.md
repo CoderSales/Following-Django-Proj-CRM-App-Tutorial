@@ -153,6 +153,8 @@ ____________________
 
 - 1:56:52 [Added Bootstrap Card and Buttons (unconnected) to records page | TODO: Delete Record](https://youtu.be/t10QcFx7d5k?t=7012)
 
+- 2:01:07 [Wired up Delete Record Button on record page | TODO: Add "Add Records" Functionality](https://youtu.be/t10QcFx7d5k?t=7267)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
