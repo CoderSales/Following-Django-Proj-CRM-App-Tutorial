@@ -145,6 +145,8 @@ ____________________
 
 - 1:45:10 [Hovering over record ID links on page causes bottom left corner of site to display (hosted site home page)/record/(id#)](https://youtu.be/t10QcFx7d5k?t=6310)
 
+- 1:45:38 [TODO Add content to record/<int:pk>](https://youtu.be/t10QcFx7d5k?t=6338)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
