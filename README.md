@@ -147,6 +147,8 @@ ____________________
 
 - 1:45:38 [TODO Add content to record/<int:pk>](https://youtu.be/t10QcFx7d5k?t=6338)
 
+- 1:46:14 [Added customer record to record page](https://youtu.be/t10QcFx7d5k?t=6374)
+
 ## Bugs
 
 Issue: Login button goes to a 403 page with CSRF missing
